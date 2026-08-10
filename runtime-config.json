@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "config_version": 1,
+  "backup14k_api_base": "http://192.6.121.125:3000",
+  "issued_at": "2026-08-10T09:22:08Z",
+  "signature": "YFrxbL3Nz7L9LJlPTBS0Pwyd8mre+9llYaeQMjnnAtk9HzII5Xd0NxPtpqczQimlGFZI3XT6nZWO2C9zjtcCCw=="
+}

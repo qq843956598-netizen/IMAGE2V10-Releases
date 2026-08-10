@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "10.0.0",
+  "min_launcher_version": "1.0.0",
+  "published_at": "2026-08-10T09:22:08Z",
+  "package_url": "https://github.com/qq843956598-netizen/IMAGE2V10-Releases/releases/download/v10.0.0/IMAGE2V10-10.0.0-win64.zip",
+  "package_size": 30965379,
+  "sha256": "7516f604f9756f8e69be8d69c7d345bd996c40327abba6f668f841ac34ab1d24",
+  "release_notes": "V10 10.0.0 线上更新基线版本；包含独立启动器、远程备14K API配置、签名校验和失败回滚。",
+  "mandatory": false,
+  "signature": "7W3wEVL0nsGVWDLDoHueaYBuTtBTHzv7Az7gorQ8+7O70bDQXGSYru3jXZPndDQ8FWVEzAH2q0JJEgLclHUcBw=="
+}
